@@ -1,0 +1,26 @@
+{
+  "name": "gemara-cli",
+  "version": "1.0.0",
+  "description": "GeMARA Command Line Interface",
+  "bin": {
+    "gemara": "bin/gemara.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gemara-io/gemara-cli.git"
+  },
+  "keywords": [
+    "REST",
+    "generator",
+    "model-driven"
+  ],
+  "author": "Peter Braun",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/gemara-io/gemara-cli/issues"
+  },
+  "homepage": "https://github.com/gemara-io/gemara-cli#readme"
+}
